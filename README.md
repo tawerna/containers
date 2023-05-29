@@ -1,1 +1,1 @@
-- PHP: [`ghcr.io/tawerna/php`](https://ghcr.io/tawerna/php)
+- PHP: [￼`ghcr.io/tawerna/php:app`￼](https://ghcr.io/tawerna/php)
